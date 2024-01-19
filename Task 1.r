@@ -50,4 +50,4 @@ titanic$Age <- ifelse(is.na(titanic$Age),
                       titanic$Age)
 
 
-# le code de Michael
+# lA VIE DE LOUGA
