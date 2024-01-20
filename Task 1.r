@@ -52,3 +52,4 @@ titanic$Age <- ifelse(is.na(titanic$Age),
 
 # lA VIE DE LOUGA
 #Hello world
+# this is me
