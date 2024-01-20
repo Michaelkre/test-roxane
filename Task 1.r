@@ -55,3 +55,6 @@ titanic$Age <- ifelse(is.na(titanic$Age),
 # this is me
 
 #btzcerxed
+
+
+#hello
